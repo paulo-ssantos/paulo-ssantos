@@ -17,6 +17,7 @@
 - 🏠 Maybe I will live abroad in the future close.
 
 <p align="left">
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Paulo-2048)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
