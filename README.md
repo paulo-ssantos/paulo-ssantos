@@ -1,4 +1,4 @@
-<h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Paulo Vitor</h1>
+<h1 align="center">Hi people <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Paulo Vitor</h1>
 <h3 align="center">A  start programmer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Paulo-2048" alt="Paulo-2048" /> </p>
 
