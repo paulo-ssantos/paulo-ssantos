@@ -19,11 +19,3 @@
 <p align="left">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Paulo-2048)](https://github.com/anuraghazra/github-readme-stats)
-
-<p align="center">
-<a href="https://repl.it/@Paulo180" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="Paulo-2048" height="20" width="20" /></a>
-<a href="https://twitter.com/Paulo_2048_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Paulo-2048" height="20" width="20" /></a>
-<a href="https://www.linkedin.com/in/paulo-2048/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Paulo-2048" height="20" width="20" /></a>
-<a href="https://pt.stackoverflow.com/users/228069/paulo-vitor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="Paulo-2048" height="20" width="20" /></a>
-<a href="https://www.instagram.com/paulo.2048_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Paulo-2048" height="20" width="20" /></a>
-</p>
