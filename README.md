@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me **paulo19032004@gmail.com** / @paulo_2048.
+- 📫 How to reach me **paulo19032004@gmail.com** / Ig: @paulo_2048.
 
 - ⚡ Fun fact: I'am Brazilian and don't like soccer.
 
