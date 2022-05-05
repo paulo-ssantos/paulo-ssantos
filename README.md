@@ -2,19 +2,19 @@
 <h3 align="center">A  start programmer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Paulo-2048" alt="Paulo-2048" /> </p>
 
-- 🔭 I’m currently working on Personal Projects
+- 🔭 I’m currently studying a degree in softare engineering
 
-- 🌱 I’m currently learning JS, Python, Git/GitHub, etc
+- 🌱 I’m currently learning JS, Python, Java, React Navite, ...
 
-- 🤔 I’m looking for help with Start in job market for dev's
+- 🤔 I’m looking Start in job market for dev's
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Java**
 
 - 📫 How to reach me **paulo19032004@gmail.com** / Ig: @paulo_2048.
 
 - ⚡ Fun fact: I'am Brazilian and don't like soccer.
 
-- 🏠 Maybe I will live abroad in the future close.
+- 🏠 I'm still going go to live outside Brazil.
 
 <p align="left">
 
