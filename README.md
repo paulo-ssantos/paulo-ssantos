@@ -24,7 +24,7 @@
 <p align="left">
   💌 You can connect with me on Linkedin, I will be very grateful for your contact: ⤵️
 </p>
-  <a href="#" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/paulo-2048/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulo-2048/" /></a>
 
 <h3> :rocket: &nbsp;Technologies I've come into contact with </h3>
@@ -62,9 +62,9 @@
 <h3> ✌ &nbsp;Contact me: </h3> 
 
 <p align="left">
-  <a href="#" alt="Gmail">
+  <a href="mailto:paulo19032004@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:paulo19032004@gmail.com" /></a>
 
-  <a href="#" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/paulo-2048/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulo-2048/" /></a>
 </p>  
