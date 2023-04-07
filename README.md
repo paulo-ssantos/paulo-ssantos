@@ -1,4 +1,4 @@
-<h1 align="center">Hi people <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Paulo Vitor</h1>
+<h1 align="center">Hi people <img src="https://media2.giphy.com/media/dalJ0CpF7hwmN1nZXe/giphy.gif" width="80px">, I'm Paulo Vitor</h1>
 <h3 align="center">A Software Engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Paulo-2048" alt="Paulo-2048" /> </p>
 
@@ -16,9 +16,8 @@
 
 <p align="left">
   💼 Stack (Most of my projects here):<br>
-  ● <strong>Node.js</strong><br>
-  ● <strong>MySql</strong><br>
-  ● <strong>Vercel</strong><br>
+  ● <strong>Java</strong><br>
+  ● <strong>SQL Lite</strong><br>
 </p>
 
 <p align="left">
@@ -29,25 +28,39 @@
 
 <h3> :rocket: &nbsp;Technologies I've come into contact with </h3>
 
-**Languages***
+**Languages**
+
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=starbucks)
+  ![CSharp](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=csharp)
+  ![DotNet](https://img.shields.io/badge/-DotNet-333333?style=flat&logo=dotnet)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  
+  
+
+**FrameWork and Others**
 
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+  ![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android&logoColor=3DDC84)
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![Postgresql](https://img.shields.io/badge/-Postgresql-333333?style=flat&logo=postgresql)
+  ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
 
 **DevOps**
 
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Team Foundation Service](https://img.shields.io/badge/-Team%20Foundation%20Service-333333?style=flat&logo=tfs)
 
 **Development Tools**
 
+  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=007ACC)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Android Studio](https://img.shields.io/badge/-Androi%20Studio-333333?style=flat&logo=android-studio&logoColor=3DDC84)
   ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
   ![MySQL Workbench](https://img.shields.io/badge/-MySQL%20Workbench-333333?style=flat&logo=mysql)
 
@@ -62,8 +75,8 @@
 <h3> ✌ &nbsp;Contact me: </h3> 
 
 <p align="left">
-  <a href="mailto:paulo19032004@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:paulo19032004@gmail.com" /></a>
+  <a href="mailto:paulovitor.ssantos@outlook.com" alt="Email">
+  <img src="https://img.shields.io/badge/-Outlook-0078D4?style=flat-square&labelColor=0078D4&logo=microsoftoutlook&logoColor=white&link=mailto:paulo19032004@gmail.com" /></a>
 
   <a href="https://www.linkedin.com/in/paulo-2048/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulo-2048/" /></a>
