@@ -68,6 +68,8 @@
 
 <br/>
 
+<strong>[OBS.: Github Principal](https://github.com/Paulo-2048)</strong><br>
+
 <a href="https://github.com/Paulo-2048">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Paulo-2048&theme=dracula&show_icons=true" />
 </a>
