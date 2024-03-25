@@ -18,7 +18,8 @@
   💼 Stack (Most of my projects here):<br>
   ● <strong>Java</strong><br>
   ● <strong>SpringBoot</strong><br>
-  ● <strong>Nest.JS</strong><br>
+  ● <strong>TypeScript</strong><br>
+  ● <strong>Vue.js | Nuxt.js</strong><br>
   ● <strong>PostegreSQL</strong><br>
 </p>
 
